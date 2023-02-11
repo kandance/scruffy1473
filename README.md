@@ -1,7 +1,7 @@
 ### Hiya 👋🏽 Kandance here!
 
 
-## All About Me
+## 👩🏽‍🦱 All About Me
 
 - 🌱 Currently learning angular.
 - 🎓 BA @ Georgetown University
