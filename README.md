@@ -3,7 +3,7 @@
 
 ## 👩🏽‍🦱 All About Me
 
-- 🌱 Currently learning angular.
+- 🌱 Currently mastering angular.
 - 🎓 BA @ Georgetown University
 - 🎓 MS @ George Mason University
 - 👩🏽‍🦱 Pronouns: she/her
